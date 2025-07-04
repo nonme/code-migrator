@@ -16,8 +16,8 @@ A smart file migration tool for code projects with intelligent filtering and pro
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd code-migrater
+   git clone https://github.com/nonme/code-migrator.git
+   cd code-migrator
    ```
 
 2. **Install Poetry** (if not already installed):
